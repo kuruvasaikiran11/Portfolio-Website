@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.4aeca9b2.css",
+    "main.js": "/Portfolio-Website/static/js/main.99d05993.js",
+    "static/media/shoplane.png": "/Portfolio-Website/static/media/shoplane.45eec1776d23c58a7c76.png",
+    "static/media/MusicPlayer.png": "/Portfolio-Website/static/media/MusicPlayer.51e471b3e355aec36020.png",
+    "static/media/about-img2.png": "/Portfolio-Website/static/media/about-img2.6a873f7f16673d92541b.png",
+    "static/media/profile-pic-1.png": "/Portfolio-Website/static/media/profile-pic-1.686a2823432963f24f7d.png",
+    "static/media/RockPapersScissors.png": "/Portfolio-Website/static/media/RockPapersScissors.63d9a0775dc5020e6b9b.png",
+    "static/media/calculator.png": "/Portfolio-Website/static/media/calculator.99097991b1d3c760ddf9.png",
+    "static/media/KafenePharma.png": "/Portfolio-Website/static/media/KafenePharma.e1d34e26db5e7dcef93c.png",
+    "static/media/TicTacToe.png": "/Portfolio-Website/static/media/TicTacToe.4844cf639dd34c49b7ce.png",
+    "static/media/sk_resume.pdf": "/Portfolio-Website/static/media/sk_resume.ae44c7b1732242511296.pdf",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.4aeca9b2.css.map": "/Portfolio-Website/static/css/main.4aeca9b2.css.map",
+    "main.99d05993.js.map": "/Portfolio-Website/static/js/main.99d05993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aeca9b2.css",
+    "static/js/main.99d05993.js"
+  ]
+}
