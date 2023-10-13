@@ -1,7 +1,7 @@
 import React from "react";
 import { BsLinkedin } from "react-icons/bs";
-import { FaGithub } from "react-icons/fa";
-// import {  } from "react-icons/bs";
+import { FaGithub, FaEnvelope } from "react-icons/fa";
+// import { BsEnvelope } from 'react-icons/bs';
 
 const HeaderSocials = () => {
   return (
@@ -12,9 +12,9 @@ const HeaderSocials = () => {
       <a href="https://github.com/kuruvasaikiran11">
         <FaGithub />
       </a>
-      {/* <a href="https://www.youtube.com/@howtobecomeadeveloper">
-        <BsYoutube />
-      </a> */}
+      <a href="mailto:kuruvasaikiran11@gmail.com">
+        <FaEnvelope />
+      </a>
     </div>
   );
 };

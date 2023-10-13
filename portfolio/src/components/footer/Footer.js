@@ -1,8 +1,7 @@
 import React from "react";
 import "./footer.css";
 import { BsLinkedin } from "react-icons/bs";
-import { FaGithub } from "react-icons/fa";
-// import { BsYoutube } from "react-icons/bs";
+import { FaGithub, FaEnvelope } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -39,12 +38,12 @@ const Footer = () => {
         <a href="https://github.com/Ade-mir">
           <FaGithub />
         </a>
-        {/* <a href="https://www.youtube.com/@howtobecomeadeveloper">
-          <BsYoutube />
-        </a> */}
+        <a href="mailto:kuruvasaikiran11@gmail.com">
+          <FaEnvelope />
+        </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; Ademir Alijagic. All rights reserved</small>
+        <small>&copy; Sai Kiran Kuruva. All rights reserved</small>
       </div>
     </footer>
   );
