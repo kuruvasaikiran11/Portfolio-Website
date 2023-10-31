@@ -8,7 +8,16 @@ header {
   text-align: center;
   height: 100%;
   position: relative;
+
 }
+
+/* .container{
+  background: url(../../assets/profile-pic-1.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-radius: 10%;
+  /* background-position: 10%; 
+} */
 
 /* CTA */
 .cta {

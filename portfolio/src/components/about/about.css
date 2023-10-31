@@ -21,7 +21,7 @@
 .about__me-image {
   border-radius: 2rem;
   overflow: hidden;
-  transform: rotate(10deg);
+  /* transform: rotate(10deg); */
   transition: var(--transition);
 }
 
@@ -69,6 +69,11 @@
   margin: 2rem 0 2.6rem;
   color: var(--color-light);
 }
+
+.sai img{
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
+} 
 
 /* MEDIA QUERIES (MEDIUM DEVICES) */
 @media screen and (max-width: 1024px) {
